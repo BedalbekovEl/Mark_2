@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mark_2</string>
+    <string name="send">SEND</string>
+    <string name="message">Message</string>
+    <string name="thm">Theme</string>
+    <string name="email_address">Email address</string>
+</resources>

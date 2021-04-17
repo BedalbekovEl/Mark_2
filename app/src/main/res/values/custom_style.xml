@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="custom_style">
+        <item name="android:drawablePadding">12dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+</resources>
